@@ -1,7 +1,7 @@
 # Charles Proxy Mac – HTTP/SSL Traffic Monitoring Tool for macOS
 
 <div align="center">  
-<img src="https://miro.medium.com/v2/resize:fit:1400/1*YGCgaYvQYXzCA313Zaquxg.png" alt="Charles Proxy Logo" width="256" height="256">  
+<img src="https://miro.medium.com/v2/resize:fit:1400/1*YGCgaYvQYXzCA313Zaquxg.png" alt="Charles Proxy Logo" width="556" height="556">  
 </div>  
 
 <div align="center">  
